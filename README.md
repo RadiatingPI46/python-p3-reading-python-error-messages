@@ -74,7 +74,7 @@ The type of error, the "who":
 The description, the "why":
 
    ```console
-   name 'hello_world' is not defined
+   name 'hello_world' is not defined 
    ```
 
    The interpreter does the best job it can to tell you what it thinks went wrong.
